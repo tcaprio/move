@@ -1,0 +1,90 @@
+{"data": [
+  {
+    "id": "1", 
+    "name": "push-up", 
+    "movementType": "repetition",
+    "reps": 10,
+    "categories": ["core", "shoulders", "upper body"]
+  },
+  {
+    "id": "2", 
+    "name": "bodyweight squat", 
+    "movementType":"repetition",
+    "reps": 10,
+    "categories": ["lower-body"]
+  },
+  {
+    "id": "3", 
+    "name": "plank", 
+    "movementType": "time",
+    "categories": ["core", "upper body"]
+  },
+  {
+    "id": "4", 
+    "name": "hollow rocks", 
+    "movementType":"repetition",
+    "reps": 10,
+    "categories": ["core"]
+  },
+  {
+    "id": "5",
+    "name": "dead bugs",
+    "movementType": "repetition",
+    "reps": "10 per side",
+    "categories": ["core"]
+  },
+  {
+    "id": "6",
+    "name": "side plank",
+    "movementType": "time",
+    "categories": ["core"]
+  },
+  {
+    "id": "7",
+    "name": "plyo push-up",
+    "movementType": "repetition",
+    "reps": 8,
+    "categories": ["core", "upper body", "shoulders"]
+  },
+  {
+    "id": "8",
+    "name": "wall sit",
+    "movementType": "time",
+    "categories": ["lower-body"]
+  },
+  {
+    "id": "9",
+    "name": "hollow hold",
+    "movementType": "time",
+    "categories": ["core"]
+  },
+  {
+    "id": "10",
+    "name": "forward lunge",
+    "movementType": "repetition",
+    "reps": "10 per side",
+    "categories": ["lower-body"]
+  },
+  {
+    "id": "11",
+    "name": "reverse lunge",
+    "movementType": "repetition",
+    "reps": "10 per side",
+    "categories": ["lower-body"]
+  },
+  {
+    "id": "12",
+    "name": "spiderman crunch",
+    "movementType": "repetition",
+    "reps": "10 per side",
+    "categories": ["core", "upper body"]
+  },
+  {
+    "id": "13",
+    "name": "high plank reaches",
+    "movementType": "repetition",
+    "reps":"10 per side",
+    "categories": ["core", "upper body"]
+  }
+  
+]}
